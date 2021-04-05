@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="JavaFXMenu">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFXMenu</output-path>
+    <root id="root">
+      <element id="archive" name="JavaFXMenu.jar">
+        <element id="module-output" name="JavaFXMenu" />
+      </element>
+    </root>
+  </artifact>
+</component>
